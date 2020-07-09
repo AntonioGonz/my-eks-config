@@ -1,0 +1,2 @@
+# my-eks-config
+eksWorkshop
